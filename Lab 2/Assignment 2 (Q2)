@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+</head>
+
+<body>
+    <h1>IMAGE GALLERY</h1>
+
+    <h2>HTML</h2>
+    <img src="html.jpg" alt="HTML" height="100">
+    <br>
+    <p>HTML (Hypertext Markup Language) is used to create the structure and content of web pages by marking up text and
+        other media with tags and elements that browsers can understand and display. It serves as the foundation of
+        nearly all websites, providing the basic layout for text, images, links, and multimedia, making it the universal
+        language of the web.</p>
+
+    <h2>CSS</h2>
+    <img src="css.jpg" alt="CSS" height="100">
+    <br>
+    <p>CSS, or Cascading Style Sheets, is a stylesheet language used to describe the presentation of a document written
+        in a markup language, most commonly HTML. It is a core technology of the World Wide Web, alongside HTML and
+        JavaScript.</p>
+
+    <h2>JAVASCRIPT</h2>
+    <img src="js.jpg" alt="JAVASCRIPT" height="100">
+    <br>
+    <p>JavaScript is a high-level, interpreted (or just-in-time compiled) programming language that is a core technology
+        of the World Wide Web, alongside HTML and CSS. It is primarily known as the scripting language for web pages,
+        enabling dynamic and interactive client-side behavior.</p>
+</body>
+
+</html>
